@@ -5,7 +5,6 @@
 // d. Find the frequency of each integer of the array.
 
 
-
 #include <stdio.h>
 
 #define SIZE 100
