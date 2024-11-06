@@ -1,3 +1,9 @@
+// Binary Search
+
+// Problem: Implement Binary Search to find if a given number exists in a sorted array.
+
+
+
 int BinarySearch(int l, int h, int t, int A[]) {
     int m;
     while(l <= h) {
