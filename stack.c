@@ -1,3 +1,10 @@
+// Stack Implementation
+
+// Problem: Write a program to implement a stack with push, pop, peek, and display operations
+
+
+
+
 #include<stdio.h> 
 #include<stdlib.h> 
 
